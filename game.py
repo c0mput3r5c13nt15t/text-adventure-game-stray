@@ -32,6 +32,6 @@ Credits:
 - Ascii Spaceships: https://huw2k8.itch.io/vortex-ascii
 - Inspiration: https://www.youtube.com/c/watchdust
 
-PS: The code is in the stray folder, because I wanted to demonstrate good code structure.
+Note: The game is in no way connected to the popular game, which is also called "Stray" and can be found here: https://store.steampowered.com/app/1332010/Stray/
 
 """
